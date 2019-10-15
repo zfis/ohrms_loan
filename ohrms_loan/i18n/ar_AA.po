@@ -428,12 +428,12 @@ msgstr "الحالة على أساس الأنشطة\n"
 #. module: ohrms_loan
 #: model_terms:ir.ui.view,arch_db:ohrms_loan.hr_loan_form_view
 msgid "Submit"
-msgstr "إنشاء"
+msgstr "تقديمها للمراجعة"
 
 #. module: ohrms_loan
 #: selection:hr.loan,state:0
 msgid "Submitted"
-msgstr "معتمدة"
+msgstr "في حالة مراجعة"
 
 #. module: ohrms_loan
 #: code:addons/ohrms_loan/models/hr_loan.py:72
